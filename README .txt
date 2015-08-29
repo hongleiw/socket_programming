@@ -5,7 +5,7 @@ Document For EE450 Final Project
 
 
 (a)Written by : Honglei Wu
-(b)Student ID : 4446338097
+(b)
 
 (c)What I have done in this project :
 	Learn network system call getaddrinfo(), socket(), bind(), connect(), listen(), accept(), send(), recv(), sendto() and recvfrom(). Using these function to simulate a patient-healthcenter-doctor scenario. 
@@ -27,4 +27,4 @@ Document For EE450 Final Project
 
 (h)All code is writted by myself.
 
-(i)I use fork() in healthcenterserver.c and multi_thread in doctor, also I use makefile. I think I can get another 15 bonus point.
+(i)I use fork() in healthcenterserver.c and multi_thread in doctor, also I use makefile.
